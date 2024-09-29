@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @mfadillahf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-
-
 
 <!---
 mfadillahf/mfadillahf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
